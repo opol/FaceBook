@@ -18,7 +18,7 @@
         </classes>
 
     </test>
-ьі
+
     <!-- LearnSelen1 -->
     <!--<test name="FBLoginFF">
         <parameter name="browserName" value="firefox"/>
